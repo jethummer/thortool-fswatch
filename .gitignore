@@ -18,4 +18,5 @@
 /httpd
 /pkg
 /src/github.com
-fswatch*
+fswatch
+fswatch.exe
